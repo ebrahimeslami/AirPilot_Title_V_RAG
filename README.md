@@ -59,6 +59,9 @@ python -m rag.ui
 
 > This environment has no internet. Run the commands on your own machine (with internet) to fetch and index the sources.
 
+Texas Title V RAG (Human-in-the-Loop) can be found here:
+http://127.0.0.1:7860/
+
 ## Adding Title V history (legacy permits, statements of basis, etc.)
 - Add URLs to `seed_sources.json` or drop PDFs into `rag/data/raw/custom/` (create the folder) and re-run `rag.index`.
 - You can maintain curated subsets (e.g., "EPA_Region6_petitions") by adding separate lists to the JSON and passing `--source-list name` to the fetcher.
