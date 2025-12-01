@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+readability-lxml
+lxml
+pdfminer.six
+scikit-learn
+numpy
+pandas
+tqdm
+gradio
+python-dateutil
+PyYAML

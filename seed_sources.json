@@ -1,0 +1,54 @@
+{
+  "tceq": [
+    "https://www.tceq.texas.gov/permitting/air/titlev",
+    "https://www.tceq.texas.gov/permitting/air/guidance/titlev/air-tvop-guidance",
+    "https://www.tceq.texas.gov/permitting/air/guidance/titlev/tv_site_guidance.html",
+    "https://www.tceq.texas.gov/permitting/air/guidance/titlev/tv_pte_guidance.html",
+    "https://www.tceq.texas.gov/permitting/air/titlev/overview.html",
+    "https://www.tceq.texas.gov/permitting/air/titlev/decision-support-system",
+    "https://www.tceq.texas.gov/permitting/air/titlev/generalpermits/gop_permtable.html",
+    "https://www.tceq.texas.gov/permitting/air/titlev/generalpermits/air-gop",
+    "https://www.tceq.texas.gov/permitting/air/forms/titlev/comp/tv_comp_forms.html",
+    "https://www.tceq.texas.gov/permitting/air/rules/state/122",
+    "https://www.tceq.texas.gov/permitting/air/rules/state/39",
+    "https://www.tceq.texas.gov/permitting/air/rules",
+    "https://www.tceq.texas.gov/airquality/point-source-ei/rg-360-24",
+    "https://www.tceq.texas.gov/downloads/air-quality/point-source/guidance/rg-360-24.pdf",
+    "https://www.tceq.texas.gov/downloads/air-quality/point-source/guidance/rg-360-23.pdf",
+    "https://www.tceq.texas.gov/downloads/agency/decisions/participation/rg-633-tac-public-notice-requirements.pdf",
+    "https://www.tceq.texas.gov/airquality/emission-events"
+  ],
+  "ecfr": [
+    "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-70",
+    "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-60",
+    "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-63",
+    "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-64",
+    "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-72"
+  ],
+  "epa": [
+    "https://www.epa.gov/title-v-operating-permits/title-v-petition-database",
+    "https://www.epa.gov/caa-permitting/caa-permitting-texas",
+    "https://www.epa.gov/electronic-reporting-air-emissions/cedri",
+    "https://cdx.epa.gov/"
+  ],
+  "law_cornell": [
+    "https://www.law.cornell.edu/cfr/text/40/part-60",
+    "https://www.law.cornell.edu/cfr/text/40/part-63",
+    "https://www.law.cornell.edu/cfr/text/40/part-64"
+  ],
+  "hgb_local": [
+    "https://www.tceq.texas.gov/airquality/sip/hgb/hgb-status",
+    "https://www.tceq.texas.gov/airquality/sip/hgb/hgb-ozone-history",
+    "https://www.epa.gov/air-quality-implementation-plans/texas-sip-30-tac-1172000-1172045-houston-galveston-brazoria-1",
+    "https://www.epa.gov/air-quality-implementation-plans/texas-sip-30-tac-117300-117356-houston-galveston-brazoria-ozone-0"
+  ],
+  "local_county": [
+    "https://pcs.harriscountytx.gov/Services/Permit-Services"
+  ],
+  "federal_register": [
+    "https://www.federalregister.gov/documents/2025/07/24/2025-13904/air-plan-approval-texas-reasonably-available-control-technology-in-the-houston-galveston-brazoria"
+  ],
+  "regulations_gov": [
+    "https://www.regulations.gov/document/EPA-R06-OAR-2020-0165-0015"
+  ]
+}
