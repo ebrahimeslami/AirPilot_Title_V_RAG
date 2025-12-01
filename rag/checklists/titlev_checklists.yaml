@@ -1,0 +1,19 @@
+# Title V Compliance Checklists (Starter)
+applicability:
+  - name: Calculate PTE by pollutant (tpy)
+    evidence: emission calcs, AP-42, tests, CEMS
+  - name: Major source screen (criteria/HAP and NA ozone class)
+    evidence: summary table
+  - name: Other triggering programs (NSPS, NESHAP, Acid Rain)
+    evidence: applicability matrix
+requirements_matrix:
+  - name: Populate CFR/TAC citations with federal vs state-only flags
+  - name: CAM screen for controlled units (40 CFR 64)
+  - name: Incorporate NSR/PBR/SP by reference
+reporting_calendar:
+  - name: Semiannual monitoring report
+    typical_due: ["Jan 30", "Jul 30"]
+  - name: Annual Compliance Certification
+    typical_due: ["Permit anniversary +30d window"]
+  - name: Annual Emissions Inventory (if required)
+    typical_due: ["Mar 31"]
