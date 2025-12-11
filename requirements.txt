@@ -10,3 +10,8 @@ tqdm
 gradio
 python-dateutil
 PyYAML
+streamlit
+plotly
+icalendar
+python-docx
+
